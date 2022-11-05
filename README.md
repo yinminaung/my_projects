@@ -1,0 +1,1 @@
+This repository is a collection of my projects to practice my skills. Most of them are JavaScript DOM projects. 
