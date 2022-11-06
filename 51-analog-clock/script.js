@@ -27,3 +27,4 @@ function playSound() {
 }
 
 setClock();
+playSound();
